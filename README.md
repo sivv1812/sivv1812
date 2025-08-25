@@ -6,7 +6,7 @@ Sivv1812</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="jpeg" src="https://mail.google.com/mail/u/0?ui=2&ik=a0f246ee93&attid=0.1&permmsgid=msg-a:r6174476361992588759&th=198e30af660aae36&view=fimg&fur=ip&permmsgid=msg-a:r6174476361992588759&sz=s0-l75-ft&attbid=ANGjdJ9cBe0zycGoH5w-xaI5c0W0BUdR0LgAKjTNB-CZua69xpsYqF__qKnH4ItaBaQk5HwF3J4537bEvChU8OKEY0ErJPnzUCY2m_-4XA3cyTtJOhllR16hn1q--2I&disp=emb&realattid=198e30acaf8bd9dcaaa1&zw">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://mail.google.com/mail/u/0?ui=2&ik=a0f246ee93&attid=0.1&permmsgid=msg-a:r-63563641619123328&th=198e316238fc3abc&view=fimg&fur=ip&permmsgid=msg-a:r-63563641619123328&sz=s0-l75-ft&attbid=ANGjdJ9hexrCmh-1uaBZJsAnUNf-CKVIYKvIl5o0xE5adRzWGGl_qdA1Vy_ReekUpaJe9Ul7xL70hlOUt_F0RBa7DujQMoe90Ss8AKNpUl5CRMnD8gKSU0nsmGMhckI&disp=emb&realattid=ii_198e31610f3c2211fab1&zw">
 </a>
 
 -  Interesado en el magister de ciencias de los datos de la universidad de chile.
