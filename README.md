@@ -1,5 +1,5 @@
 # sivv1812
-# Hola soy sivv1812, tengo 26 años y voy en decimo semestre de ingenieria civil industrial.
+
 <h1 align="center">Hola 👋, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Sivv1812</a></h1>
 <h3 align="center">tengo 26 años y voy en decimo semestre de ingenieria civil industrial. &#127470;&#127475</h3>
@@ -18,10 +18,11 @@ Sivv1812</a></h1>
 - Tralalero tralala
 
 
-- 📫 How to reach me **sivv1218@gmail.com**
+- 📫mi mail personal es el siguiente **sivv1218@gmail.com**
 
 
 
 Last Edited on: 25/08/2025
+# sivv1812
 # sivv1812
 # sivv1812
