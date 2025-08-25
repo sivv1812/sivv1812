@@ -1,4 +1,4 @@
-# sivv1812
+
 
 <h1 align="center">Hola 👋, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Sivv1812</a></h1>
@@ -6,7 +6,7 @@ Sivv1812</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI3a2pmbXBzMHJzcGVveHFzOG5iNXR0ZWllamE1ZDB1bDhoNDY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cg3hGL5fbON3AIVPm7/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="jpeg" src="https://mail.google.com/mail/u/0?ui=2&ik=a0f246ee93&attid=0.1&permmsgid=msg-a:r6174476361992588759&th=198e30af660aae36&view=fimg&fur=ip&permmsgid=msg-a:r6174476361992588759&sz=s0-l75-ft&attbid=ANGjdJ9cBe0zycGoH5w-xaI5c0W0BUdR0LgAKjTNB-CZua69xpsYqF__qKnH4ItaBaQk5HwF3J4537bEvChU8OKEY0ErJPnzUCY2m_-4XA3cyTtJOhllR16hn1q--2I&disp=emb&realattid=198e30acaf8bd9dcaaa1&zw">
 </a>
 
 -  Interesado en el magister de ciencias de los datos de la universidad de chile.
@@ -20,9 +20,10 @@ Sivv1812</a></h1>
 
 - 📫mi mail personal es el siguiente **sivv1218@gmail.com**
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXI3a2pmbXBzMHJzcGVveHFzOG5iNXR0ZWllamE1ZDB1bDhoNDY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cg3hGL5fbON3AIVPm7/giphy.gif">
+</a>
 
+Ultima edición: 25/08/2025
 
-Last Edited on: 25/08/2025
-# sivv1812
-# sivv1812
 # sivv1812
