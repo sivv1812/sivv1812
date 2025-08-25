@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Sivv1812</a></h1>
-<h3 align="center">tengo 26 años y voy en decimo semestre de ingenieria civil industrial. &#127470;&#127475</h3>
+<h3 align="center">tengo 26 años y voy en decimo semestre de ingenieria civil industrial.
 
 
 <a target="_blank" align="center">
@@ -23,6 +23,7 @@ Sivv1812</a></h1>
 
 
 Ultima edición: 25/08/2025
+
 
 
 
