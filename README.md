@@ -1,2 +1,26 @@
 # sivv1812
+# Hola soy sivv1812, tengo 26 años y voy en decimo semestre de ingenieria civil industrial.
+<h1 align="center">Hola 👋, soy sivv1812 <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Sivv1812</a></h1>
+<h3 align="center">tengo 26 años y voy en decimo semestre de ingenieria civil industrial. &#127470;&#127475</h3>
+
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+-  Interesado en el magister de ciencias de los datos de la universidad de chile.
+
+- Tengo experiencia en python y r
+
+- Tengo una steam deck.
+
+- Tralalero tralala
+
+
+- 📫 How to reach me **sivv1218@gmail.com**
+
+
+
+Last Edited on: 25/08/2025
 # sivv1812
